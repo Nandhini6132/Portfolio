@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio.git/static/css/main.246992da.css",
-    "main.js": "/portfolio.git/static/js/main.7f4824f9.js",
+    "main.css": "/portfolio.git/static/css/main.9d30c9ef.css",
+    "main.js": "/portfolio.git/static/js/main.f9c25d1c.js",
     "static/js/3112.1bcf16c4.chunk.js": "/portfolio.git/static/js/3112.1bcf16c4.chunk.js",
     "static/js/7443.552b1dbf.chunk.js": "/portfolio.git/static/js/7443.552b1dbf.chunk.js",
     "static/js/2780.1fe87525.chunk.js": "/portfolio.git/static/js/2780.1fe87525.chunk.js",
@@ -94,10 +94,11 @@
     "static/media/img4.png": "/portfolio.git/static/media/img4.bf7516812da1e52e06a5.png",
     "static/media/img1.png": "/portfolio.git/static/media/img1.f73990498fffd08733df.png",
     "static/media/img3.png": "/portfolio.git/static/media/img3.d142e26be5dda7206a02.png",
+    "static/media/chat-app (3).png": "/portfolio.git/static/media/chat-app (3).e4cf534162b84d536c6c.png",
     "static/media/img5.png": "/portfolio.git/static/media/img5.f3c145c48066da156579.png",
     "index.html": "/portfolio.git/index.html",
-    "main.246992da.css.map": "/portfolio.git/static/css/main.246992da.css.map",
-    "main.7f4824f9.js.map": "/portfolio.git/static/js/main.7f4824f9.js.map",
+    "main.9d30c9ef.css.map": "/portfolio.git/static/css/main.9d30c9ef.css.map",
+    "main.f9c25d1c.js.map": "/portfolio.git/static/js/main.f9c25d1c.js.map",
     "3112.1bcf16c4.chunk.js.map": "/portfolio.git/static/js/3112.1bcf16c4.chunk.js.map",
     "7443.552b1dbf.chunk.js.map": "/portfolio.git/static/js/7443.552b1dbf.chunk.js.map",
     "2780.1fe87525.chunk.js.map": "/portfolio.git/static/js/2780.1fe87525.chunk.js.map",
@@ -188,7 +189,7 @@
     "9484.79ea6b08.chunk.js.map": "/portfolio.git/static/js/9484.79ea6b08.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.246992da.css",
-    "static/js/main.7f4824f9.js"
+    "static/css/main.9d30c9ef.css",
+    "static/js/main.f9c25d1c.js"
   ]
 }
